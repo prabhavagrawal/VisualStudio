@@ -1,3 +1,4 @@
+Test line
 # GitHub Extension for Visual Studio
 
 ## Notices
