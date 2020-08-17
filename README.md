@@ -1,5 +1,3 @@
-Test line 1
-Test line 123
 # GitHub Extension for Visual Studio
 
 ## Notices
